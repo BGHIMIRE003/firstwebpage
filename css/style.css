@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+}
+
+h1, h2{
+  color: #a4a400;
+  background-color: #F0F0F0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 22pt;
+  font-style: bold;
+
+}
+
+h2 {
+  
+  text-align: left;
+  font-size: 18pt;
+}
+
+.header> ul> li
+{
+  list-style: none;
+  padding: 0;
+}
+  
+
+.header>ul
+{
+padding: 0;
+
+}
+
+.comments
+{
+  font-style: italic;
+  background-color: rgb(255, 255, 0);
+}
+
+ul>li
+{
+list-style-image: url('../images/pie_icon.gif');
+
+}
